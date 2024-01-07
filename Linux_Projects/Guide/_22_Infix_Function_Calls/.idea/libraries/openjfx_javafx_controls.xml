@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="openjfx.javafx.controls" type="repository">
+    <properties maven-id="org.openjfx:javafx-controls:20" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
