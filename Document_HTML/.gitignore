@@ -1,0 +1,2 @@
+# Any temp file that might exist should the document be open during push
+~*
