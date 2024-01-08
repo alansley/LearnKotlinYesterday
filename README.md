@@ -1,4 +1,4 @@
-# LearnKotlinYesterday
+# Learn Kotlin Yesterday
 A guide to learning Kotlin (fast!) for developers who can already code in other languages.
 
 ![The Learn Kotlin Yesterday document header image](https://github.com/alansley/LearnKotlinYesterday/blob/main/README_Images/Header.png?raw=true)
